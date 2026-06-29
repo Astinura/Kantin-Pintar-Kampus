@@ -10,9 +10,9 @@
 
 | Nama | Peran | Kontak |
 |------|-------|--------|
-| Anggota A | UI/UX Developer | [isi email/WA] |
-| Anggota B | Backend Dev + Scrum Master | [isi email/WA] |
-| Anggota C | QA Tester + PO Representative | [isi email/WA] |
+| Sukma | UI/UX Developer | [Sukmanrmlsr456@gmai.com] |
+| Asti | Backend Dev + Scrum Master | [astinur489@gmail.com] |
+| Sinora | QA Tester + PO Representative | [sinoramernisy123@gmail.com] |
 
 ---
 
@@ -228,9 +228,9 @@ Dengan ditandatanganinya (atau disetujuinya secara digital) dokumen ini, seluruh
 
 | Nama | Peran | Tanda Tangan / Persetujuan |
 |------|-------|---------------------------|
-| Anggota A | UI/UX Developer | ________________ |
-| Anggota B | Backend Dev + Scrum Master | ________________ |
-| Anggota C | QA Tester + PO Rep | ________________ |
+| Sukma | UI/UX Developer | ________________ |
+| Asti | Backend Dev + Scrum Master | ________________ |
+| Sinora | QA Tester + PO Rep | ________________ |
 
 **Tanggal dibuat:** _______________  
 **Versi dokumen:** 1.0  
